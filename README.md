@@ -33,8 +33,9 @@ I’m building out a realistic domain controller environment for a fictional Chi
  <img width="1229" height="675" alt="mAZCQwo" src="https://github.com/user-attachments/assets/1b81c303-3abc-4194-8c91-450375ea9442" />
 
 - 🏁 **Installed Windows Server 2022**  
-  Chose Desktop Experience and set the local admin password  
-  ![Screenshot: Windows Server Installation Complete](./screenshots/windows-install.png)
+  Chose Desktop Experience and set the local admin password
+
+  <img width="1016" height="697" alt="mLu6spL" src="https://github.com/user-attachments/assets/310d7e03-a354-47a9-bd51-823f9b51ace2" />
 
 - 🖥️ **Renamed the Computer to `CHICAGO-DC01`**  
   Changed computer name via System Properties and restarted  
