@@ -18,11 +18,16 @@ I’m building out a realistic domain controller environment for a fictional Chi
 
 ## ✅ What I Did:
 
-- 🔽 **Downloaded Windows Server 2022 ISO**  
-  Got it from the official Microsoft Evaluation Center  
-  ![Screenshot: ISO Download Confirmation](./screenshots/iso-download.png)
+## 🔽 **Downloaded Windows Server 2022 ISO**  
+  Got it from the official Microsoft Evaluation Center
+  
+ <img width="1138" height="450" alt="RFUwNvF" src="https://github.com/user-attachments/assets/3b12d9fb-6de2-4b12-8aa7-1a143f3381aa" />
 
-- 💻 **Created a New Virtual Machine in Hyper-V**  
+ ---
+ 
+<img width="1016" height="697" alt="mLu6spL" src="https://github.com/user-attachments/assets/cfe7a324-ffd9-47b7-bd27-99d81a3d6edd" />
+
+## 💻 **Created a New Virtual Machine in Hyper-V**  
   Named it `CHICAGO-DC01` and mounted the Windows Server 2022 ISO  
   ![Screenshot: Hyper-V VM Settings](./screenshots/hyperv-vm-setup.png)
 
